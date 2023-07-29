@@ -1,13 +1,13 @@
-## A Gentle Introduction to Scientific Writing
+## Scientific Article Writing
 
 Andrés G. Marrugo, Ph.D.          
 *Universidad Tecnológica de Bolívar*
 
-September, 2022
+August, 2023
 
 ##  Aims and Scope
 
-This short course introduces undergraduate students on the craft of scientific/academic writing. There will be several short surveys and short writing exercises during the course.
+This course introduces graduate students on the craft of scientific article writing. 
 
 ### Course Goals: 
 - To understand the difference between scientific writing and other types of writing.
