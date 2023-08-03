@@ -34,15 +34,17 @@ We will be using the LaTeX typesetting language along with other tools like BibT
 
 ### Lecture 1: Introduction to Scientific Writing
 
-- [Lecture 1 slides](link)
+- [Lecture 1 slides](https://www.dropbox.com/s/m614ojwqxwaszj8/Lecture-01-intro.pdf?dl=0)
+
+#### Recommended Readings
+
+- [Chapters 1 and 2 - Chris Mack](https://www.spiedigitallibrary.org/ebooks/PM/How-to-Write-a-Good-Scientific-Paper/Chapter1/How-to-Write-a-Good-Scientific-Paper-Full-Book/10.1117/3.2317707.sup?webSyncID=8b1b784d-8db1-3e6d-be88-365d018a7bd6&sessionGUID=875583eb-1c34-202b-13d8-e906282a7365&_ga=2.226645333.991530863.1690731670-1106017337.1689951529)
 
 ### Lecture 2: The Title and Abstract
 
 - [Lecture 2 slides](link)
 
-#### Recommended Readings
 
-- [XXX](link)
 
 ### Lecture 3: The Introduction
 
