@@ -40,6 +40,18 @@ We will be using the LaTeX typesetting language along with other tools like BibT
 
 - [Chapters 1 and 2 - Chris Mack](https://www.spiedigitallibrary.org/ebooks/PM/How-to-Write-a-Good-Scientific-Paper/Chapter1/How-to-Write-a-Good-Scientific-Paper-Full-Book/10.1117/3.2317707.sup?webSyncID=8b1b784d-8db1-3e6d-be88-365d018a7bd6&sessionGUID=875583eb-1c34-202b-13d8-e906282a7365&_ga=2.226645333.991530863.1690731670-1106017337.1689951529)
 
+### Lecture 2: On Writing Well
+
+- [Lecture 2 slides](https://www.dropbox.com/s/6ucebu33htwo1xa/Lecture-02-writing-well.pdf?dl=0)
+
+#### Recommended Readings
+
+- [Chapter 3 - Chris Mack](https://www.spiedigitallibrary.org/ebooks/PM/How-to-Write-a-Good-Scientific-Paper/Chapter1/How-to-Write-a-Good-Scientific-Paper-Full-Book/10.1117/3.2317707.sup?webSyncID=8b1b784d-8db1-3e6d-be88-365d018a7bd6&sessionGUID=875583eb-1c34-202b-13d8-e906282a7365&_ga=2.226645333.991530863.1690731670-1106017337.1689951529)
+- [The Elements of Style by Strunk and White](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
+- [10 Simple Steps to Writing a Scientific Paper](https://spie.org/news/photonics-focus/janfeb-2020/how-to-write-a-scientific-paper?SSO=1 "10 Simple Steps to Writing a Scientific Paper")
+
+
+
 ### Lecture 2: The Title and Abstract
 
 - [Lecture 2 slides](link)
