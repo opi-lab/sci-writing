@@ -32,6 +32,8 @@ We will be using the LaTeX typesetting language along with other tools like BibT
 
 ## Outline
 
+This will be updated throughout the course.
+
 ### Lecture 1: Introduction to Scientific Writing
 
 - [Lecture 1 slides](https://www.dropbox.com/s/m614ojwqxwaszj8/Lecture-01-intro.pdf?dl=0)
@@ -52,58 +54,11 @@ We will be using the LaTeX typesetting language along with other tools like BibT
 
 
 
-### Lecture 2: The Title and Abstract
+### Lecture 3: Compelling Titles and Killer Abstracts
 
-- [Lecture 2 slides](link)
+- [Lecture 3 slides](https://www.dropbox.com/scl/fi/8ed9eygyqgxkhwiilcgj6/Lecture-03-compelling-titles-and-abstracts.pdf?rlkey=lsv4na57e2ku20c33lpqzsdif&dl=0)
 
+#### Recommended Readings
 
-
-### Lecture 3: The Introduction
-
-- [Lecture 3 slides](link)
-
-### Lecture 4: The Methods Section
-
-- [Lecture 4 slides](link)
-
-### Lecture 5: The Results Section
-
-- [Lecture 5 slides](link)
-
-### Lecture 6: The Discussion/Conclusion Section
-
-- [Lecture 6 slides](link)
-
-### Lecture 7: References, Citations, and Ethical Considerations
-
-- [Lecture 7 slides](link)
-
-### Lecture 8: Modern Writing Tools and Generative AI
-
-- [Lecture 8 slides](link)
-
-### Lecture 9: Figures, Tables, and Revision Process
-
-- [Lecture 9 slides](link)
-
-### Lecture 10: Peer Review Process
-
-- [Lecture 10 slides](link)
-
-### Lecture 11: Writing a Review Paper
-
-- [Lecture 11 slides](link)
-
-### Lecture 12: Picking the Right Journal and Submission Process
-
-- [Lecture 12 slides](link)
-
-### Lecture 13: Workshop and Peer Review Session
-
-- [Lecture 13 slides](link)
-
-### Lecture 14: Final Paper Submission and Course Wrap-up
-
-- [Lecture 14 slides](link)
-
-
+- [Chapter Title - Writing and Publishing a Scientific Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_3)
+- [Chapter Abstracts - Writing and Publishing a Scientific Research Paper]([https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_4))
