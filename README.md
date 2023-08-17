@@ -61,4 +61,4 @@ This will be updated throughout the course.
 #### Recommended Readings
 
 - [Chapter Title - Writing and Publishing a Scientific Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_3)
-- [Chapter Abstracts - Writing and Publishing a Scientific Research Paper]([https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_4))
+- [Chapter Abstracts - Writing and Publishing a Scientific Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_4)
