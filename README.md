@@ -62,4 +62,4 @@ This will be updated throughout the course.
 
 - [Chapter Title - Writing and Publishing a Scientific Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_3)   
 - [Chapter Abstracts - Writing and Publishing a Scientific Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_4)   
-- [The 10 most common mistakes when choosing a title for your paper](https://peerj.com/blog/post/115284880816/the-10-most-common-mistakes-when-choosing-a-title-for-your-paper/ "The 10 most common mistakes when choosing a title for your paper | PeerJ Blog")
+- [The 10 most common mistakes when choosing a title for your paper](https://peerj.com/blog/post/115284880816/the-10-most-common-mistakes-when-choosing-a-title-for-your-paper/)
