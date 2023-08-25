@@ -63,3 +63,7 @@ This will be updated throughout the course.
 - [Chapter Title - Writing and Publishing a Scientific Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_3)   
 - [Chapter Abstracts - Writing and Publishing a Scientific Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-4720-6_4)   
 - [The 10 most common mistakes when choosing a title for your paper](https://peerj.com/blog/post/115284880816/the-10-most-common-mistakes-when-choosing-a-title-for-your-paper/)
+
+### Lecture 4: Crafting an Introduction
+
+- [Lecture 4 slides](https://www.dropbox.com/scl/fi/6lffaf9gay1ctg68wthpz/Lecture-04-crafting-an-introduction.pdf?rlkey=w9k8x4o8vkfrewfvr8818pad8&dl=0)
