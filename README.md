@@ -67,3 +67,7 @@ This will be updated throughout the course.
 ### Lecture 4: Crafting an Introduction
 
 - [Lecture 4 slides](https://www.dropbox.com/scl/fi/6lffaf9gay1ctg68wthpz/Lecture-04-crafting-an-introduction.pdf?rlkey=w9k8x4o8vkfrewfvr8818pad8&dl=0)
+
+### Lecture 5: The Methods section
+
+- [Lecture 5 slides](https://www.dropbox.com/scl/fi/96aoh492z78d1y6wym64j/Lecture-05-methods.pdf?rlkey=beh08mw4ytbwtvzdv3xsbziop&dl=0)
