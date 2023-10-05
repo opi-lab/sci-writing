@@ -68,6 +68,20 @@ This will be updated throughout the course.
 
 - [Lecture 4 slides](https://www.dropbox.com/scl/fi/6lffaf9gay1ctg68wthpz/Lecture-04-crafting-an-introduction.pdf?rlkey=w9k8x4o8vkfrewfvr8818pad8&dl=0)
 
+### Invited lecture: On Scientific Illustrations
+- Invited lecture by Dr. Stefan Heist from the Fraunhofer Institute of Applied Optics at Jenna.
+
+### Invited lecture: Planning your article
+- Invited lecture by Prof. Giovanni Volpe from the University of Gothenburg.
+
 ### Lecture 5: The Methods section
 
 - [Lecture 5 slides](https://www.dropbox.com/scl/fi/96aoh492z78d1y6wym64j/Lecture-05-methods.pdf?rlkey=beh08mw4ytbwtvzdv3xsbziop&dl=0)
+
+### Lecture 6: The Results section
+
+- [Lecture 6 slides](https://www.dropbox.com/scl/fi/h4gpwjjgh8sazax1wo8ij/Lecture-06-results.pdf?rlkey=0fxzfk0bkoyvmvu19zkcm7pr4&dl=0)
+
+### Lecture 7: Modern Writing Tools and Generative AI
+
+- [Lecture 7 slides](https://www.dropbox.com/scl/fi/mg6c52njqxx55bti7r6pu/Lecture-07-modern-tools.pdf?rlkey=w9prsv24vikkfww9m9z4a4e6c&dl=0)
