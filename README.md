@@ -85,3 +85,12 @@ This will be updated throughout the course.
 ### Lecture 7: Modern Writing Tools and Generative AI
 
 - [Lecture 7 slides](https://www.dropbox.com/scl/fi/mg6c52njqxx55bti7r6pu/Lecture-07-modern-tools.pdf?rlkey=w9prsv24vikkfww9m9z4a4e6c&dl=0)
+
+### Invited Lecture: Drafting and illustrating your article
+
+- Prof. Giovanni Volpe
+
+### Lecture 8: Choosing the Right Journal and Peer Review
+
+- [Lecture 8 slides](https://www.dropbox.com/scl/fi/qlygrax8c6dca5one68ae/Lecture-08-journal-selection-peer-review.pdf?rlkey=cibpnmpde8iexizga11skjja5&dl=0)
+
