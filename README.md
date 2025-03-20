@@ -68,6 +68,15 @@ This will be updated throughout the course.
 
 - [Lecture 4 slides](https://www.dropbox.com/scl/fi/6lffaf9gay1ctg68wthpz/Lecture-04-crafting-an-introduction.pdf?rlkey=w9k8x4o8vkfrewfvr8818pad8&dl=0)
 
+### Invited Lecture: Planning your article
+- Invited lecture by Fernando Quintero, Journal Manager TESEA.
+
+- [Lecture slides - planning](https://www.dropbox.com/scl/fi/wb4whby18w1qvzth7afg6/taller-escritura-cientifica-catedra-ods-lec02.pptx?rlkey=7g6j6ia575p4cbj7dp3oycgo0&dl=0)
+- [Lecture slides -  designing](https://www.dropbox.com/scl/fi/aumkvukswtr19bw50exlr/taller-escritura-cientifica-catedra-ods-lec03.pptx?rlkey=znin0642cz5decsrh11punxnq&dl=0)
+
+
+### Mini Writing seminar: 
+
 ### Invited lecture: On Scientific Illustrations
 - Invited lecture by Dr. Stefan Heist from the Fraunhofer Institute of Applied Optics at Jenna.
 
